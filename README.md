@@ -60,24 +60,6 @@ The final output is a **long-format tidy DataFrame**, ideal for:
 
 ---
 
-## 🧰 Tools Used
-
-- **Excel** for initial formatting
-- **Python 3**
-- **Pandas**
-- **Jupyter Notebook**
-
----
-
-## 📁 Files
-
-| File Name              | Description                              |
-|------------------------|------------------------------------------|
-| `SurveyMonkeyEdited.xlsx` | Cleaned Excel with raw and processed data |
-| `DataManipulation1.ipynb` | Jupyter Notebook with transformation code |
-| `README.md`            | This file                                |
-
----
 
 ## 🧠 Concepts Illustrated
 
@@ -89,9 +71,3 @@ The final output is a **long-format tidy DataFrame**, ideal for:
 - NaN handling and data enrichment
 
 ---
-
-## 🚀 Future Enhancements
-
-- Automate Excel header restructuring using Python
-- Add interactive data visualizations (e.g., with Plotly or Dash)
-- Build a web-based dashboard for survey insights
