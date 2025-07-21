@@ -2,7 +2,7 @@
 
 ## 📝 About the Project
 
-This project demonstrates how to take complex, multi-layered survey data exported from [SurveyMonkey](http://surveymonkey.com/) and transform it into a **tidy**, **analysis-ready** format. It walks through both **manual preprocessing (Excel)** and **automated cleaning and reshaping (Python/pandas)**.
+This project demonstrates how to take complex, multi-layered survey data exported from [SurveyMonkey](http://surveymonkey.com/) and transform it into a **tidy**, **analysis-ready** format. It walks through both **Manual preprocessing (Excel)** and **automated cleaning and reshaping (Python/pandas)**.
 
 The data contains multiple-choice questions, each with multiple sub-responses, typical of real-world survey formats. Raw exports from SurveyMonkey are often wide, messy, and not directly usable for analytics. This project shows how to turn that into a clean dataset using reproducible steps.
 
