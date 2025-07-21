@@ -13,7 +13,7 @@ The data contains multiple-choice questions, each with multiple sub-responses, t
 The raw dataset includes:
 - Respondent metadata (e.g. Start Date, Email Address)
 - Multiple questions, each potentially spanning several columns
-- Answers in wide format: each question and sub-question is its own column
+- Answers in wide format: each question and sub-question is its own column.
 
 ---
 
@@ -57,7 +57,7 @@ The final output is a **long-format tidy DataFrame**, ideal for:
 - Statistical analysis
 - Dashboards or BI tools
 - Export to SQL, CSV, or JSON
-
+- 
 ---
 
 
